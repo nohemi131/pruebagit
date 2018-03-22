@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "54915d71d019d9b592c4c9c355011206"
+build_time: [1521741462, 261747000]
+inputs:
+  "/Users/nzs/Documents/repository/pruebagit/pruebagit/pruebagit/ViewController.swift": [1521741444, 0]
+  "/Users/nzs/Documents/repository/pruebagit/pruebagit/pruebagit/AppDelegate.swift": [1521741443, 0]
