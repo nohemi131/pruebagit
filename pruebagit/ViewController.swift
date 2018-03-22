@@ -5,7 +5,6 @@
 //  Created by NZS on 3/22/18.
 //  Copyright © 2018 NZS. All rights reserved.
 //
-
 import UIKit
 
 class ViewController: UIViewController {
@@ -17,6 +16,7 @@ class ViewController: UIViewController {
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
+    
         // Dispose of any resources that can be recreated.
     }
 
